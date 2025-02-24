@@ -13,22 +13,25 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50">
-    <br>
+</p>
 
+<p align="center">
     <!-- Row 2 -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="50">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50">
-    <br>
+</p>
 
+<p align="center">
     <!-- Row 3 -->
     <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Apache_NiFi_logo.svg" width="50"> <!-- ETL Tool -->
-    <br>
+</p>
 
+<p align="center">
     <!-- Row 4 -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="50">
