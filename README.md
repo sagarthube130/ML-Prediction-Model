@@ -41,7 +41,7 @@
 
 
 📬 **Let's Connect!**  
-🔗 [LinkedIn](www.linkedin.com/in/sagarthube130) | 📧 sagarthube130@gmail.com  
+🔗  [LinkedIn](www.linkedin.com/in/sagarthube130) | 📧 sagarthube130@gmail.com  
 
 # IPL Infographics: Data Analytics & Data Visualization
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
