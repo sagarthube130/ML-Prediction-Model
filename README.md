@@ -16,18 +16,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="50">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo.png" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Plotly-logo.png" width="50">
     <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Amazon_Redshift_Logo.png" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka_wordtype.svg" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/d3/SSIS_logo.png" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache_Kafka_logo.svg" width="50">
+    <img src="https://seeklogo.com/images/I/informatica-logo-92C3A4C228-seeklogo.com.png" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="50">
     <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50">
 </p>
+
 
 📬 **Let's Connect!**  
 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sagarthube130)) | 📧 sagarthube130@gmail.com  
