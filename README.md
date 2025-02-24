@@ -7,19 +7,34 @@
 
 ## 🔥 Technologies & Tools  
 
-### 💻 Programming:  
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
-![SQL Server](https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Microsoft_SQL_Server_logo.svg/800px-Microsoft_SQL_Server_logo.svg.png)  
-![MySQL](https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg)  
-![T-SQL](https://upload.wikimedia.org/wikipedia/commons/2/29/T-SQL.png)  
+### 💻 Programming  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Microsoft_SQL_Server_logo.svg/800px-Microsoft_SQL_Server_logo.svg.png" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/T-SQL.png" width="50">  
 
-## 🔥 Technologies & Tools  
+### 📊 Data & ML  
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo.png" width="50">  
+<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50">  
 
-<h3>💻 Programming:</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Microsoft_SQL_Server_logo.svg/800px-Microsoft_SQL_Server_logo.svg.png" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/T-SQL.png" width="50" height="50">
+### ☁ Cloud & ETL  
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Amazon_Redshift_Logo.png" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka_wordtype.svg" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d3/SSIS_logo.png" width="50">  
+
+### 🔧 Tools  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="50">  
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50">  
+
 
 📬 **Let's Connect!**  
 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sagarthube130)) | 📧 sagarthube130@gmail.com  
