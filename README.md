@@ -7,19 +7,31 @@
 
 ## 🔥 Technologies & Tools  
 
+## 🔥 Technologies & Tools  
+
 <p align="center">
+    <!-- Row 1 -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50">
+    <br>
+
+    <!-- Row 2 -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="50">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50">
+    <br>
+
+    <!-- Row 3 -->
     <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50"> 
-    <img src="https://seeklogo.com/images/I/informatica-logo-92C3A4C228-seeklogo.com.png" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Apache_NiFi_logo.svg" width="50"> <!-- ETL Tool -->
+    <br>
+
+    <!-- Row 4 -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="50">
     <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="50">
