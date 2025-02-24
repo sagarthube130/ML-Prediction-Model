@@ -7,7 +7,7 @@
 
 ## 🔥 Technologies & Tools  
 
-<p align="center">
+<p>
     <!-- Row 1 -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50">
@@ -15,7 +15,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50">
 </p>
 
-<p align="center">
+<p>
     <!-- Row 2 -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50">
@@ -23,7 +23,7 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50">
 </p>
 
-<p align="center">
+<p>
     <!-- Row 3 -->
     <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50">
@@ -31,7 +31,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Apache_NiFi_logo.svg" width="50"> <!-- ETL Tool -->
 </p>
 
-<p align="center">
+<p>
     <!-- Row 4 -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="50">
