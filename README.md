@@ -240,7 +240,7 @@ We welcome contributions from team members:
 - **Gopikrishna V** - *Data Analysis* - GitHub: [TianKaiJr](https://github.com/TianKaiJr)
 - **Aditya Mehta** - *Modeling* - GitHub: [ADITYAMEHTA2222](https://github.com/ADITYAMEHTA2222)
 - **Sai Hitesh** - *Data Preprocessing* - GitHub: [SaiHitesh77](https://github.com/SaiHitesh77)
-- **Sagar Thube** - *Data Analysis* - GitHub: [sagarthube130](https://github.com/sagarthube130)
+- **Sagar Thube** - *Data Analysis and Preprocessing* - GitHub: [sagarthube130](https://github.com/sagarthube130)
 - **Navya Sree Gouru** - *Data Collection* - GitHub: [Navya_Sree_Gouru](https://github.com/Navya_Sree_Gouru)
 ---
 ## Acknowledgements
