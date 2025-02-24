@@ -7,42 +7,19 @@
 
 ## 🔥 Technologies & Tools  
 
-### 💻 Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
-
-### 📊 Data & ML  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-EE4C2C?style=for-the-badge&logo=xgboost&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)  
-
-### ☁ Cloud & ETL  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Redshift](https://img.shields.io/badge/AWS%20Redshift-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
-![SSIS](https://img.shields.io/badge/SSIS-0156A4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
-
-### 🔧 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+### 💻 Programming:  
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+![SQL Server](https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Microsoft_SQL_Server_logo.svg/800px-Microsoft_SQL_Server_logo.svg.png)  
+![MySQL](https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg)  
+![T-SQL](https://upload.wikimedia.org/wikipedia/commons/2/29/T-SQL.png)  
 
 ## 🔥 Technologies & Tools  
-💻 **Programming:** Python, SQL ,T-SQL  
-📊 **Data & ML:** Pandas, NumPy,Plotly,Seaborn,Matplotlib Scikit-Learn, XGBoost, Power BI  
-☁ **Cloud & ETL:** AWS, Redshift, Apache Kafka, SSIS  
-🔧 **Tools:** Git, Docker, Streamlit, Flask  
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarthube130&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarthube130&layout=compact&theme=radical)  
+<h3>💻 Programming:</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Microsoft_SQL_Server_logo.svg/800px-Microsoft_SQL_Server_logo.svg.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/T-SQL.png" width="50" height="50">
 
 📬 **Let's Connect!**  
 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sagarthube130)) | 📧 sagarthube130@gmail.com  
